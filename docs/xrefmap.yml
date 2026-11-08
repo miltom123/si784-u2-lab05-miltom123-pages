@@ -1,0 +1,250 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Bank.Domain
+  name: Bank.Domain
+  href: api/Bank.Domain.html
+  commentId: N:Bank.Domain
+  fullName: Bank.Domain
+  nameWithType: Bank.Domain
+- uid: Bank.Domain.BankAccount
+  name: BankAccount
+  href: api/Bank.Domain.BankAccount.html
+  commentId: T:Bank.Domain.BankAccount
+  fullName: Bank.Domain.BankAccount
+  nameWithType: BankAccount
+- uid: Bank.Domain.BankAccount.#ctor(System.String,System.Double)
+  name: BankAccount(string, double)
+  href: api/Bank.Domain.BankAccount.html#Bank_Domain_BankAccount__ctor_System_String_System_Double_
+  commentId: M:Bank.Domain.BankAccount.#ctor(System.String,System.Double)
+  name.vb: New(String, Double)
+  fullName: Bank.Domain.BankAccount.BankAccount(string, double)
+  fullName.vb: Bank.Domain.BankAccount.New(String, Double)
+  nameWithType: BankAccount.BankAccount(string, double)
+  nameWithType.vb: BankAccount.New(String, Double)
+- uid: Bank.Domain.BankAccount.#ctor*
+  name: BankAccount
+  href: api/Bank.Domain.BankAccount.html#Bank_Domain_BankAccount__ctor_
+  commentId: Overload:Bank.Domain.BankAccount.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Bank.Domain.BankAccount.BankAccount
+  fullName.vb: Bank.Domain.BankAccount.New
+  nameWithType: BankAccount.BankAccount
+  nameWithType.vb: BankAccount.New
+- uid: Bank.Domain.BankAccount.Balance
+  name: Balance
+  href: api/Bank.Domain.BankAccount.html#Bank_Domain_BankAccount_Balance
+  commentId: P:Bank.Domain.BankAccount.Balance
+  fullName: Bank.Domain.BankAccount.Balance
+  nameWithType: BankAccount.Balance
+- uid: Bank.Domain.BankAccount.Balance*
+  name: Balance
+  href: api/Bank.Domain.BankAccount.html#Bank_Domain_BankAccount_Balance_
+  commentId: Overload:Bank.Domain.BankAccount.Balance
+  isSpec: "True"
+  fullName: Bank.Domain.BankAccount.Balance
+  nameWithType: BankAccount.Balance
+- uid: Bank.Domain.BankAccount.Credit(System.Double)
+  name: Credit(double)
+  href: api/Bank.Domain.BankAccount.html#Bank_Domain_BankAccount_Credit_System_Double_
+  commentId: M:Bank.Domain.BankAccount.Credit(System.Double)
+  name.vb: Credit(Double)
+  fullName: Bank.Domain.BankAccount.Credit(double)
+  fullName.vb: Bank.Domain.BankAccount.Credit(Double)
+  nameWithType: BankAccount.Credit(double)
+  nameWithType.vb: BankAccount.Credit(Double)
+- uid: Bank.Domain.BankAccount.Credit*
+  name: Credit
+  href: api/Bank.Domain.BankAccount.html#Bank_Domain_BankAccount_Credit_
+  commentId: Overload:Bank.Domain.BankAccount.Credit
+  isSpec: "True"
+  fullName: Bank.Domain.BankAccount.Credit
+  nameWithType: BankAccount.Credit
+- uid: Bank.Domain.BankAccount.CustomerName
+  name: CustomerName
+  href: api/Bank.Domain.BankAccount.html#Bank_Domain_BankAccount_CustomerName
+  commentId: P:Bank.Domain.BankAccount.CustomerName
+  fullName: Bank.Domain.BankAccount.CustomerName
+  nameWithType: BankAccount.CustomerName
+- uid: Bank.Domain.BankAccount.CustomerName*
+  name: CustomerName
+  href: api/Bank.Domain.BankAccount.html#Bank_Domain_BankAccount_CustomerName_
+  commentId: Overload:Bank.Domain.BankAccount.CustomerName
+  isSpec: "True"
+  fullName: Bank.Domain.BankAccount.CustomerName
+  nameWithType: BankAccount.CustomerName
+- uid: Bank.Domain.BankAccount.Debit(System.Double)
+  name: Debit(double)
+  href: api/Bank.Domain.BankAccount.html#Bank_Domain_BankAccount_Debit_System_Double_
+  commentId: M:Bank.Domain.BankAccount.Debit(System.Double)
+  name.vb: Debit(Double)
+  fullName: Bank.Domain.BankAccount.Debit(double)
+  fullName.vb: Bank.Domain.BankAccount.Debit(Double)
+  nameWithType: BankAccount.Debit(double)
+  nameWithType.vb: BankAccount.Debit(Double)
+- uid: Bank.Domain.BankAccount.Debit*
+  name: Debit
+  href: api/Bank.Domain.BankAccount.html#Bank_Domain_BankAccount_Debit_
+  commentId: Overload:Bank.Domain.BankAccount.Debit
+  isSpec: "True"
+  fullName: Bank.Domain.BankAccount.Debit
+  nameWithType: BankAccount.Debit
+- uid: Bank.Domain.BankAccount.DebitAmountExceedsBalanceMessage
+  name: DebitAmountExceedsBalanceMessage
+  href: api/Bank.Domain.BankAccount.html#Bank_Domain_BankAccount_DebitAmountExceedsBalanceMessage
+  commentId: F:Bank.Domain.BankAccount.DebitAmountExceedsBalanceMessage
+  fullName: Bank.Domain.BankAccount.DebitAmountExceedsBalanceMessage
+  nameWithType: BankAccount.DebitAmountExceedsBalanceMessage
+- uid: Bank.Domain.BankAccount.DebitAmountLessThanZeroMessage
+  name: DebitAmountLessThanZeroMessage
+  href: api/Bank.Domain.BankAccount.html#Bank_Domain_BankAccount_DebitAmountLessThanZeroMessage
+  commentId: F:Bank.Domain.BankAccount.DebitAmountLessThanZeroMessage
+  fullName: Bank.Domain.BankAccount.DebitAmountLessThanZeroMessage
+  nameWithType: BankAccount.DebitAmountLessThanZeroMessage
+- uid: Bank.Domain.BankAccount.m_balance
+  name: m_balance
+  href: api/Bank.Domain.BankAccount.html#Bank_Domain_BankAccount_m_balance
+  commentId: F:Bank.Domain.BankAccount.m_balance
+  fullName: Bank.Domain.BankAccount.m_balance
+  nameWithType: BankAccount.m_balance
+- uid: Bank.Domain.BankAccount.m_customerName
+  name: m_customerName
+  href: api/Bank.Domain.BankAccount.html#Bank_Domain_BankAccount_m_customerName
+  commentId: F:Bank.Domain.BankAccount.m_customerName
+  fullName: Bank.Domain.BankAccount.m_customerName
+  nameWithType: BankAccount.m_customerName
+- uid: Bank.Domain.Tests
+  name: Bank.Domain.Tests
+  href: api/Bank.Domain.Tests.html
+  commentId: N:Bank.Domain.Tests
+  fullName: Bank.Domain.Tests
+  nameWithType: Bank.Domain.Tests
+- uid: Bank.Domain.Tests.BankAccountTests
+  name: BankAccountTests
+  href: api/Bank.Domain.Tests.BankAccountTests.html
+  commentId: T:Bank.Domain.Tests.BankAccountTests
+  fullName: Bank.Domain.Tests.BankAccountTests
+  nameWithType: BankAccountTests
+- uid: Bank.Domain.Tests.BankAccountTests.Constructor_InitializesCustomerAndBalance(System.String,System.Double)
+  name: Constructor_InitializesCustomerAndBalance(string, double)
+  href: api/Bank.Domain.Tests.BankAccountTests.html#Bank_Domain_Tests_BankAccountTests_Constructor_InitializesCustomerAndBalance_System_String_System_Double_
+  commentId: M:Bank.Domain.Tests.BankAccountTests.Constructor_InitializesCustomerAndBalance(System.String,System.Double)
+  name.vb: Constructor_InitializesCustomerAndBalance(String, Double)
+  fullName: Bank.Domain.Tests.BankAccountTests.Constructor_InitializesCustomerAndBalance(string, double)
+  fullName.vb: Bank.Domain.Tests.BankAccountTests.Constructor_InitializesCustomerAndBalance(String, Double)
+  nameWithType: BankAccountTests.Constructor_InitializesCustomerAndBalance(string, double)
+  nameWithType.vb: BankAccountTests.Constructor_InitializesCustomerAndBalance(String, Double)
+- uid: Bank.Domain.Tests.BankAccountTests.Constructor_InitializesCustomerAndBalance*
+  name: Constructor_InitializesCustomerAndBalance
+  href: api/Bank.Domain.Tests.BankAccountTests.html#Bank_Domain_Tests_BankAccountTests_Constructor_InitializesCustomerAndBalance_
+  commentId: Overload:Bank.Domain.Tests.BankAccountTests.Constructor_InitializesCustomerAndBalance
+  isSpec: "True"
+  fullName: Bank.Domain.Tests.BankAccountTests.Constructor_InitializesCustomerAndBalance
+  nameWithType: BankAccountTests.Constructor_InitializesCustomerAndBalance
+- uid: Bank.Domain.Tests.BankAccountTests.Credit_NegativeAmount_ThrowsWithoutChangingBalance(System.Double,System.Double)
+  name: Credit_NegativeAmount_ThrowsWithoutChangingBalance(double, double)
+  href: api/Bank.Domain.Tests.BankAccountTests.html#Bank_Domain_Tests_BankAccountTests_Credit_NegativeAmount_ThrowsWithoutChangingBalance_System_Double_System_Double_
+  commentId: M:Bank.Domain.Tests.BankAccountTests.Credit_NegativeAmount_ThrowsWithoutChangingBalance(System.Double,System.Double)
+  name.vb: Credit_NegativeAmount_ThrowsWithoutChangingBalance(Double, Double)
+  fullName: Bank.Domain.Tests.BankAccountTests.Credit_NegativeAmount_ThrowsWithoutChangingBalance(double, double)
+  fullName.vb: Bank.Domain.Tests.BankAccountTests.Credit_NegativeAmount_ThrowsWithoutChangingBalance(Double, Double)
+  nameWithType: BankAccountTests.Credit_NegativeAmount_ThrowsWithoutChangingBalance(double, double)
+  nameWithType.vb: BankAccountTests.Credit_NegativeAmount_ThrowsWithoutChangingBalance(Double, Double)
+- uid: Bank.Domain.Tests.BankAccountTests.Credit_NegativeAmount_ThrowsWithoutChangingBalance*
+  name: Credit_NegativeAmount_ThrowsWithoutChangingBalance
+  href: api/Bank.Domain.Tests.BankAccountTests.html#Bank_Domain_Tests_BankAccountTests_Credit_NegativeAmount_ThrowsWithoutChangingBalance_
+  commentId: Overload:Bank.Domain.Tests.BankAccountTests.Credit_NegativeAmount_ThrowsWithoutChangingBalance
+  isSpec: "True"
+  fullName: Bank.Domain.Tests.BankAccountTests.Credit_NegativeAmount_ThrowsWithoutChangingBalance
+  nameWithType: BankAccountTests.Credit_NegativeAmount_ThrowsWithoutChangingBalance
+- uid: Bank.Domain.Tests.BankAccountTests.Credit_ValidAmount_UpdatesBalance(System.Double,System.Double,System.Double)
+  name: Credit_ValidAmount_UpdatesBalance(double, double, double)
+  href: api/Bank.Domain.Tests.BankAccountTests.html#Bank_Domain_Tests_BankAccountTests_Credit_ValidAmount_UpdatesBalance_System_Double_System_Double_System_Double_
+  commentId: M:Bank.Domain.Tests.BankAccountTests.Credit_ValidAmount_UpdatesBalance(System.Double,System.Double,System.Double)
+  name.vb: Credit_ValidAmount_UpdatesBalance(Double, Double, Double)
+  fullName: Bank.Domain.Tests.BankAccountTests.Credit_ValidAmount_UpdatesBalance(double, double, double)
+  fullName.vb: Bank.Domain.Tests.BankAccountTests.Credit_ValidAmount_UpdatesBalance(Double, Double, Double)
+  nameWithType: BankAccountTests.Credit_ValidAmount_UpdatesBalance(double, double, double)
+  nameWithType.vb: BankAccountTests.Credit_ValidAmount_UpdatesBalance(Double, Double, Double)
+- uid: Bank.Domain.Tests.BankAccountTests.Credit_ValidAmount_UpdatesBalance*
+  name: Credit_ValidAmount_UpdatesBalance
+  href: api/Bank.Domain.Tests.BankAccountTests.html#Bank_Domain_Tests_BankAccountTests_Credit_ValidAmount_UpdatesBalance_
+  commentId: Overload:Bank.Domain.Tests.BankAccountTests.Credit_ValidAmount_UpdatesBalance
+  isSpec: "True"
+  fullName: Bank.Domain.Tests.BankAccountTests.Credit_ValidAmount_UpdatesBalance
+  nameWithType: BankAccountTests.Credit_ValidAmount_UpdatesBalance
+- uid: Bank.Domain.Tests.BankAccountTests.Debit_BoundaryAmount_UpdatesBalance(System.Double,System.Double,System.Double)
+  name: Debit_BoundaryAmount_UpdatesBalance(double, double, double)
+  href: api/Bank.Domain.Tests.BankAccountTests.html#Bank_Domain_Tests_BankAccountTests_Debit_BoundaryAmount_UpdatesBalance_System_Double_System_Double_System_Double_
+  commentId: M:Bank.Domain.Tests.BankAccountTests.Debit_BoundaryAmount_UpdatesBalance(System.Double,System.Double,System.Double)
+  name.vb: Debit_BoundaryAmount_UpdatesBalance(Double, Double, Double)
+  fullName: Bank.Domain.Tests.BankAccountTests.Debit_BoundaryAmount_UpdatesBalance(double, double, double)
+  fullName.vb: Bank.Domain.Tests.BankAccountTests.Debit_BoundaryAmount_UpdatesBalance(Double, Double, Double)
+  nameWithType: BankAccountTests.Debit_BoundaryAmount_UpdatesBalance(double, double, double)
+  nameWithType.vb: BankAccountTests.Debit_BoundaryAmount_UpdatesBalance(Double, Double, Double)
+- uid: Bank.Domain.Tests.BankAccountTests.Debit_BoundaryAmount_UpdatesBalance*
+  name: Debit_BoundaryAmount_UpdatesBalance
+  href: api/Bank.Domain.Tests.BankAccountTests.html#Bank_Domain_Tests_BankAccountTests_Debit_BoundaryAmount_UpdatesBalance_
+  commentId: Overload:Bank.Domain.Tests.BankAccountTests.Debit_BoundaryAmount_UpdatesBalance
+  isSpec: "True"
+  fullName: Bank.Domain.Tests.BankAccountTests.Debit_BoundaryAmount_UpdatesBalance
+  nameWithType: BankAccountTests.Debit_BoundaryAmount_UpdatesBalance
+- uid: Bank.Domain.Tests.BankAccountTests.Debit_WhenAmountIsLessThanZero_ShouldThrowArgumentOutOfRange
+  name: Debit_WhenAmountIsLessThanZero_ShouldThrowArgumentOutOfRange()
+  href: api/Bank.Domain.Tests.BankAccountTests.html#Bank_Domain_Tests_BankAccountTests_Debit_WhenAmountIsLessThanZero_ShouldThrowArgumentOutOfRange
+  commentId: M:Bank.Domain.Tests.BankAccountTests.Debit_WhenAmountIsLessThanZero_ShouldThrowArgumentOutOfRange
+  fullName: Bank.Domain.Tests.BankAccountTests.Debit_WhenAmountIsLessThanZero_ShouldThrowArgumentOutOfRange()
+  nameWithType: BankAccountTests.Debit_WhenAmountIsLessThanZero_ShouldThrowArgumentOutOfRange()
+- uid: Bank.Domain.Tests.BankAccountTests.Debit_WhenAmountIsLessThanZero_ShouldThrowArgumentOutOfRange*
+  name: Debit_WhenAmountIsLessThanZero_ShouldThrowArgumentOutOfRange
+  href: api/Bank.Domain.Tests.BankAccountTests.html#Bank_Domain_Tests_BankAccountTests_Debit_WhenAmountIsLessThanZero_ShouldThrowArgumentOutOfRange_
+  commentId: Overload:Bank.Domain.Tests.BankAccountTests.Debit_WhenAmountIsLessThanZero_ShouldThrowArgumentOutOfRange
+  isSpec: "True"
+  fullName: Bank.Domain.Tests.BankAccountTests.Debit_WhenAmountIsLessThanZero_ShouldThrowArgumentOutOfRange
+  nameWithType: BankAccountTests.Debit_WhenAmountIsLessThanZero_ShouldThrowArgumentOutOfRange
+- uid: Bank.Domain.Tests.BankAccountTests.Debit_WhenAmountIsMoreThanBalance_ShouldThrowArgumentOutOfRange
+  name: Debit_WhenAmountIsMoreThanBalance_ShouldThrowArgumentOutOfRange()
+  href: api/Bank.Domain.Tests.BankAccountTests.html#Bank_Domain_Tests_BankAccountTests_Debit_WhenAmountIsMoreThanBalance_ShouldThrowArgumentOutOfRange
+  commentId: M:Bank.Domain.Tests.BankAccountTests.Debit_WhenAmountIsMoreThanBalance_ShouldThrowArgumentOutOfRange
+  fullName: Bank.Domain.Tests.BankAccountTests.Debit_WhenAmountIsMoreThanBalance_ShouldThrowArgumentOutOfRange()
+  nameWithType: BankAccountTests.Debit_WhenAmountIsMoreThanBalance_ShouldThrowArgumentOutOfRange()
+- uid: Bank.Domain.Tests.BankAccountTests.Debit_WhenAmountIsMoreThanBalance_ShouldThrowArgumentOutOfRange*
+  name: Debit_WhenAmountIsMoreThanBalance_ShouldThrowArgumentOutOfRange
+  href: api/Bank.Domain.Tests.BankAccountTests.html#Bank_Domain_Tests_BankAccountTests_Debit_WhenAmountIsMoreThanBalance_ShouldThrowArgumentOutOfRange_
+  commentId: Overload:Bank.Domain.Tests.BankAccountTests.Debit_WhenAmountIsMoreThanBalance_ShouldThrowArgumentOutOfRange
+  isSpec: "True"
+  fullName: Bank.Domain.Tests.BankAccountTests.Debit_WhenAmountIsMoreThanBalance_ShouldThrowArgumentOutOfRange
+  nameWithType: BankAccountTests.Debit_WhenAmountIsMoreThanBalance_ShouldThrowArgumentOutOfRange
+- uid: Bank.Domain.Tests.BankAccountTests.MultiDebit_WithValidAmount_UpdatesBalance(System.Double,System.Double,System.Double)
+  name: MultiDebit_WithValidAmount_UpdatesBalance(double, double, double)
+  href: api/Bank.Domain.Tests.BankAccountTests.html#Bank_Domain_Tests_BankAccountTests_MultiDebit_WithValidAmount_UpdatesBalance_System_Double_System_Double_System_Double_
+  commentId: M:Bank.Domain.Tests.BankAccountTests.MultiDebit_WithValidAmount_UpdatesBalance(System.Double,System.Double,System.Double)
+  name.vb: MultiDebit_WithValidAmount_UpdatesBalance(Double, Double, Double)
+  fullName: Bank.Domain.Tests.BankAccountTests.MultiDebit_WithValidAmount_UpdatesBalance(double, double, double)
+  fullName.vb: Bank.Domain.Tests.BankAccountTests.MultiDebit_WithValidAmount_UpdatesBalance(Double, Double, Double)
+  nameWithType: BankAccountTests.MultiDebit_WithValidAmount_UpdatesBalance(double, double, double)
+  nameWithType.vb: BankAccountTests.MultiDebit_WithValidAmount_UpdatesBalance(Double, Double, Double)
+- uid: Bank.Domain.Tests.BankAccountTests.MultiDebit_WithValidAmount_UpdatesBalance*
+  name: MultiDebit_WithValidAmount_UpdatesBalance
+  href: api/Bank.Domain.Tests.BankAccountTests.html#Bank_Domain_Tests_BankAccountTests_MultiDebit_WithValidAmount_UpdatesBalance_
+  commentId: Overload:Bank.Domain.Tests.BankAccountTests.MultiDebit_WithValidAmount_UpdatesBalance
+  isSpec: "True"
+  fullName: Bank.Domain.Tests.BankAccountTests.MultiDebit_WithValidAmount_UpdatesBalance
+  nameWithType: BankAccountTests.MultiDebit_WithValidAmount_UpdatesBalance
+- uid: Bank.Domain.Tests.BankAccountTests.Transactions_UpdateBalanceAndPreserveCustomer(System.Double,System.Double,System.Double,System.Double)
+  name: Transactions_UpdateBalanceAndPreserveCustomer(double, double, double, double)
+  href: api/Bank.Domain.Tests.BankAccountTests.html#Bank_Domain_Tests_BankAccountTests_Transactions_UpdateBalanceAndPreserveCustomer_System_Double_System_Double_System_Double_System_Double_
+  commentId: M:Bank.Domain.Tests.BankAccountTests.Transactions_UpdateBalanceAndPreserveCustomer(System.Double,System.Double,System.Double,System.Double)
+  name.vb: Transactions_UpdateBalanceAndPreserveCustomer(Double, Double, Double, Double)
+  fullName: Bank.Domain.Tests.BankAccountTests.Transactions_UpdateBalanceAndPreserveCustomer(double, double, double, double)
+  fullName.vb: Bank.Domain.Tests.BankAccountTests.Transactions_UpdateBalanceAndPreserveCustomer(Double, Double, Double, Double)
+  nameWithType: BankAccountTests.Transactions_UpdateBalanceAndPreserveCustomer(double, double, double, double)
+  nameWithType.vb: BankAccountTests.Transactions_UpdateBalanceAndPreserveCustomer(Double, Double, Double, Double)
+- uid: Bank.Domain.Tests.BankAccountTests.Transactions_UpdateBalanceAndPreserveCustomer*
+  name: Transactions_UpdateBalanceAndPreserveCustomer
+  href: api/Bank.Domain.Tests.BankAccountTests.html#Bank_Domain_Tests_BankAccountTests_Transactions_UpdateBalanceAndPreserveCustomer_
+  commentId: Overload:Bank.Domain.Tests.BankAccountTests.Transactions_UpdateBalanceAndPreserveCustomer
+  isSpec: "True"
+  fullName: Bank.Domain.Tests.BankAccountTests.Transactions_UpdateBalanceAndPreserveCustomer
+  nameWithType: BankAccountTests.Transactions_UpdateBalanceAndPreserveCustomer

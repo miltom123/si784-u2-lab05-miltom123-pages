@@ -1,0 +1,104 @@
+{
+  "docfx_version": "2.81.0+ba844df625370a6bd7c1ecab0d0ec4d1d9128ac4",
+  "source_base_path": "/home/runner/work/si784-2026-ii-si784-2026-ii-u2-lab05-miltom123/si784-2026-ii-si784-2026-ii-u2-lab05-miltom123/docfx",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bank.Domain.BankAccount.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bank.Domain.BankAccount.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Bank.Domain.BankAccount",
+      "Summary": "<p sourcefile=\"api/Bank.Domain.BankAccount.yml\" sourcestartlinenumber=\"1\">Cuenta bancaria con operaciones de débito y crédito.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bank.Domain.Tests.BankAccountTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bank.Domain.Tests.BankAccountTests.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Bank.Domain.Tests.BankAccountTests",
+      "Summary": "<p sourcefile=\"api/Bank.Domain.Tests.BankAccountTests.yml\" sourcestartlinenumber=\"1\">Verifica estado, límites y excepciones de la cuenta bancaria.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bank.Domain.Tests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bank.Domain.Tests.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Bank.Domain.Tests",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bank.Domain.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bank.Domain.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Bank.Domain",
+      "Summary": null
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".json": {
+          "relative_path": "api/toc.json"
+        },
+        ".html": {
+          "relative_path": "api/toc.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".json": {
+          "relative_path": "toc.json"
+        },
+        ".html": {
+          "relative_path": "toc.html"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
